@@ -3,7 +3,7 @@ squelette de makefile pour du cpp
 
 1-  Put this Makekile your root's project's folder
 
-2-  Type "mkir src includes"
+2-  Type "mkdir src includes"
 
 3-  Put your .cpp in src and list them in the Makefile after "LST_SRCS = "
     
